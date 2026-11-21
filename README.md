@@ -2,6 +2,12 @@
 
 ### Telugu Christian Songs, Worship & Lyrics Application
 
+<p align="center">
+  <img src="assets/app-banner.png"
+       alt="Siyonu Margam App Banner"
+       width="100%">
+</p>
+
 A beautifully designed mobile application bringing Telugu Christian worship songs, devotional music and lyrics together in one place.
 
 Siyonu Margam is designed to provide an organized and user-friendly experience for exploring Christian songs, reading Telugu lyrics, listening to worship music and accessing devotional content.
