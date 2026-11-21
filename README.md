@@ -37,114 +37,132 @@ The application combines music, lyrics, personalization and offline listening fe
 - 📅 **Daily Content:** Access daily content and worship announcements.
 - 📺 **YouTube Integration:** Access the Siyonu Margam YouTube channel.
 
----
 
 ## 🖼️ Application Screenshots
 
-Explore the different screens and features of Siyonu Margam.
+Explore Siyonu Margam through the following screenshot gallery.
+Click any screenshot to view it in full size.
 
-### 1. Home & Navigation
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="screenshots/01-splash-screen.png">
+<img src="screenshots/01-splash-screen.png" width="110" alt="Splash Screen">
+</a><br>
+<strong>01. Splash Screen</strong>
+</td>
+<td align="center" width="33%">
+<a href="screenshots/02-home-dashboard.png">
+<img src="screenshots/02-home-dashboard.png" width="110" alt="Home Dashboard">
+</a><br>
+<strong>02. Home Dashboard</strong>
+</td>
+<td align="center" width="33%">
+<a href="screenshots/03-album-library.png">
+<img src="screenshots/03-album-library.png" width="110" alt="Album Library">
+</a><br>
+<strong>03. Album Library</strong>
+</td>
+</tr>
 
-The home dashboard provides access to different Christian song collections through illustrated category cards.
+<tr>
+<td align="center">
+<a href="screenshots/04-album-songs.png">
+<img src="screenshots/04-album-songs.png" width="110" alt="Album Songs">
+</a><br>
+<strong>04. Album Songs</strong>
+</td>
+<td align="center">
+<a href="screenshots/05-music-player.png">
+<img src="screenshots/05-music-player.png" width="110" alt="Music Player">
+</a><br>
+<strong>05. Music Player</strong>
+</td>
+<td align="center">
+<a href="screenshots/06-daily-content.png">
+<img src="screenshots/06-daily-content.png" width="110" alt="Daily Content">
+</a><br>
+<strong>06. Daily Content</strong>
+</td>
+</tr>
 
-| Splash Screen | Home Dashboard |
-|---|---|
-| ![Splash Screen](screenshots/01-splash-screen.png) | ![Home Dashboard](screenshots/02-home-dashboard.png) |
+<tr>
+<td align="center">
+<a href="screenshots/07-more-screen.png">
+<img src="screenshots/07-more-screen.png" width="110" alt="More Screen">
+</a><br>
+<strong>07. More Screen</strong>
+</td>
+<td align="center">
+<a href="screenshots/08-settings.png">
+<img src="screenshots/08-settings.png" width="110" alt="Settings">
+</a><br>
+<strong>08. App Settings</strong>
+</td>
+<td align="center">
+<a href="screenshots/09-theme-selection.png">
+<img src="screenshots/09-theme-selection.png" width="110" alt="Theme Selection">
+</a><br>
+<strong>09. Theme Selection</strong>
+</td>
+</tr>
 
-### 2. Music Library & Playback
+<tr>
+<td align="center">
+<a href="screenshots/10-telugu-lyrics-index.png">
+<img src="screenshots/10-telugu-lyrics-index.png" width="110" alt="Telugu Lyrics Index">
+</a><br>
+<strong>10. Telugu Lyrics Index</strong>
+</td>
+<td align="center">
+<a href="screenshots/11-song-search.png">
+<img src="screenshots/11-song-search.png" width="110" alt="Song Search">
+</a><br>
+<strong>11. Song Search</strong>
+</td>
+<td align="center">
+<a href="screenshots/12-telugu-lyrics-reader.png">
+<img src="screenshots/12-telugu-lyrics-reader.png" width="110" alt="Telugu Lyrics Reader">
+</a><br>
+<strong>12. Telugu Lyrics Reader</strong>
+</td>
+</tr>
 
-Browse albums, explore individual songs and enjoy music through the integrated audio player.
+<tr>
+<td align="center">
+<a href="screenshots/13-reading-settings.png">
+<img src="screenshots/13-reading-settings.png" width="110" alt="Reading Settings">
+</a><br>
+<strong>13. Reading Settings</strong>
+</td>
+<td align="center">
+<a href="screenshots/14-lyrics-transliteration.png">
+<img src="screenshots/14-lyrics-transliteration.png" width="110" alt="Lyrics Transliteration">
+</a><br>
+<strong>14. Lyrics Transliteration</strong>
+</td>
+<td align="center">
+<a href="screenshots/15-offline-downloads.png">
+<img src="screenshots/15-offline-downloads.png" width="110" alt="Offline Downloads">
+</a><br>
+<strong>15. Offline Downloads</strong>
+</td>
+</tr>
 
-**Album Library**
-
-![Album Library](screenshots/03-album-library.png)
-
-**Album Songs**
-
-![Album Songs](screenshots/04-album-songs.png)
-
-**Music Player**
-
-![Music Player](screenshots/05-music-player.png)
-
-### 3. Daily Content & Navigation
-
-Access daily content, worship announcements and additional application information.
-
-| Daily Content | More Screen |
-|---|---|
-| ![Daily Content](screenshots/06-daily-content.png) | ![More Screen](screenshots/07-more-screen.png) |
-
-### 4. Personalization & App Settings
-
-Customize the application appearance and choose a preferred reading experience.
-
-**Application Settings**
-
-![Settings](screenshots/08-settings.png)
-
-**Theme Selection**
-
-![Theme Selection](screenshots/09-theme-selection.png)
-
-The application offers 12 selectable themes, including:
-
-- Royal Purple
-- Ocean Blue
-- Forest Green
-- Dark Mode
-- Evergreen
-- Royal Navy
-- Burgundy
-- Ocean Teal
-- Golden Sand
-- Lavender
-- Slate
-- One additional theme
-
-The selected theme is saved on the device.
-
-### 5. Telugu Lyrics & Search
-
-Find songs, browse Telugu lyrics using the alphabet index and read complete song lyrics.
-
-**Telugu Lyrics Index**
-
-![Lyrics Index](screenshots/10-telugu-lyrics-index.png)
-
-**Song Search**
-
-![Song Search](screenshots/11-song-search.png)
-
-**Telugu Lyrics Reader**
-
-![Lyrics Reader](screenshots/12-telugu-lyrics-reader.png)
-
-### 6. Reading Experience
-
-The lyrics reading experience includes adjustable text size, translation visibility and Roman transliteration.
-
-**Reading Settings**
-
-![Reading Settings](screenshots/13-reading-settings.png)
-
-**Telugu Transliteration**
-
-![Transliteration](screenshots/14-lyrics-transliteration.png)
-
-### 7. Offline Music & About
-
-**Offline Downloads**
-
-Downloaded songs can be accessed through the downloads screen and played without an active internet connection.
-
-![Offline Downloads](screenshots/15-offline-downloads.png)
-
-**About Siyonu Margam**
-
-![About App](screenshots/16-about-app.png)
+<tr>
+<td align="center">
+<a href="screenshots/16-about-app.png">
+<img src="screenshots/16-about-app.png" width="110" alt="About Siyonu Margam">
+</a><br>
+<strong>16. About Siyonu Margam</strong>
+</td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 ---
+
 
 ## 🎨 UI/UX Design
 
